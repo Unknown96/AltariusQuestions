@@ -1,39 +1,36 @@
-# AltariusQuestions
-Questions regarding guild.
 
 
 FORM
 
-	<div class="CLASS-NAME-HERE-NO-CAPS toggle" id="PLAYER-NAME">
-		<h2>PLAYER-NAME [110] <a href="https://worldofwarcraft.com/en-gb/character/burning-legion/PLAYER-NAME" target="_blank">Armory</a> <span>+</span></h2>
+
+<div class="class-no-caps-no-space toggle" id="name">
+		<h2>NAME [LVL] <a href="https://worldofwarcraft.com/en-gb/character/burning-legion/NAME" target="_blank">Armory</a> <span>+</span></h2>
 	</div>
-		<ul class="PLAYER-NAME CLASS-NAME-HERE-NO-CAPS">
-			<hr>
+		<ul class="NAME class-no-caps-no-space">
 			<li>Why did you join Altarius?
-			<span>1. RESPONSES HERE</span></li>
+			<li class="answer"></li>
 
-			<li>What content in World of Warcraft are you the most intressted in? - (PvP/PvE/Other)
-			<span>2. RESPONSES HERE</span></li>
+			<li>What content in World of Warcraft are you the most intressted in? - (PvP/PvE/Other)</li>
+			<li class="answer"></li>
 
-			<li>What games beside World of Warcraft do you play?
-			<span>3. RESPONSES HERE</span></li>
+			<li>What games beside World of Warcraft do you play?</li>
+			<li class="answer"></li>
 
 			<li>What was your previous guild like?
-			<span>4. RESPONSES HERE</span></li>
+			<li class="answer"></li>
 
-			<li>How many languages are you fluent in?
-			<span>5. RESPONSES HERE</span></li>
+			<li>How many languages are you fluent in?</li>
+			<li class="answer"></li>
 
-			<li>Do you raid?
-			<span>6. RESPONSES HERE</span></li>
+			<li>Do you raid?</li>
+			<li class="answer"></li>
 
-			<li>If [yes]: what's your current raiding progression? <br> If [no]: What is your preferred content
-			<span>7. RESPONSES HERE</span></li>
+			<li>If [yes]: what's your current raiding progression? <br> If [no]: What is your preferred content</li>
+			<li class="answer"></li>
 
-			<li>What is your experience throughout your whole WoW career? Content clearing and from what expansion did you start play?
-			<span>8. RESPONSES HERE</span></li>
+			<li>What is your experience throughout your whole WoW career? Content clearing and from what expansion did you start play?</li>
+			<li class="answer"></li>
 
-			<li>What are your goals with your current online character?
-			<span>9. RESPONSES HERE</span>
-		    </li>
+			<li>What are your goals with your current online character?</li>
+			<li class="answer"></li>
 		</ul>
