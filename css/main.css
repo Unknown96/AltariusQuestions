@@ -1,0 +1,107 @@
+
+body {
+	margin:0;padding:0;
+	font-size:100%;
+	font-family:Arial;
+}
+
+/* CLASSES BACKGROUND */
+
+.warrior {
+	background:rgba(199, 156, 110, 1);
+}
+
+.dk {
+	background:rgba(199, 156, 110, 1);
+}
+
+.dh {
+	background:rgba(163, 48, 201, 1);
+}
+
+.druid {
+	background:rgba(163, 48, 201, 1);
+}
+
+.hunter {
+	background:rgba(171, 212, 115, 1);
+}
+
+.mage {
+	background:rgba(105, 204, 240, 1);
+}
+
+
+.monk {
+	background:rgba(0, 255, 150, 1);
+}
+
+.paladin {
+	background:rgba(245, 140, 186, 1);
+}
+
+.priest {
+	background:rgba(255, 255, 255, 1);
+}
+
+.rogue {
+	background:rgba(255, 245, 105, 1);
+}
+
+.shaman {
+	background:rgba(255, 245, 105, 1);
+}
+
+.warlock {
+	background:rgba(148, 130, 201, 1);
+}
+
+/* REST */
+
+.toggle {
+	padding:.5%;
+	cursor:pointer;
+}
+
+h2:first-of-type {
+	margin-top:0;
+	padding:1%;
+	text-align:center;
+}
+
+h2 {
+	margin:0;
+}
+
+h2 a:visited {
+	color:blue;
+}
+
+h2 span {
+	float:right;
+	font-size:40px;
+}
+
+ul {
+	display:none;
+	padding:1%;
+	margin:0;
+}
+
+ul li {
+	margin-left:1%;
+	margin-bottom:1%;
+	list-style-type:decimal;
+}
+
+ul li span {
+	float:right;
+	font-weight:bold;
+}
+
+hr {
+	background:black;
+	border:none;
+	height:1px;
+	width:70%;
+}
