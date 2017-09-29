@@ -97,6 +97,8 @@ ul li {
 ul li span {
 	float:right;
 	font-weight:bold;
+	width:50%;
+	border:1px solid transparent;
 }
 
 hr {
