@@ -3,7 +3,6 @@ Questions regarding guild.
 
 
 FORM
-<!---- Copy everything bellow this line!
 
 <div class="class-no-caps-no-space toggle" id="name">
 		<h2>NAME [LVL] <a href="https://worldofwarcraft.com/en-gb/character/burning-legion/NAME" target="_blank">Armory</a> <span>+</span></h2>
