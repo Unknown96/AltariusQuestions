@@ -4,7 +4,11 @@ Questions regarding guild.
 
 FORM
 
-<div class="class-no-caps-no-space toggle" id="name">
+To access form, press the pen on the right to 'Edit'. This will display the form.
+
+<!--- Copy everything bellow this line!
+
+<div class="class-no-caps-no-space toggle" id="NAME">
 		<h2>NAME [LVL] <a href="https://worldofwarcraft.com/en-gb/character/burning-legion/NAME" target="_blank">Armory</a> <span>+</span></h2>
 	</div>
 		<ul class="NAME class-no-caps-no-space">
@@ -34,9 +38,4 @@ FORM
 
 			<li>What are your goals with your current online character?</li>
 			<li class="answer"></li>
-		</ul>HERE</span></li>
-
-			<li>What are your goals with your current online character?
-			<span>9. RESPONSES HERE</span>
-		    </li>
 		</ul>
