@@ -1,5 +1,8 @@
 
+var number = 1
+
 $(function() {
+var toggle = $('.toggle')
 	$('.toggle').click(function() {
 		e = $(this).attr('id');
 		h2 = $(this).find('h2 span')
@@ -11,4 +14,13 @@ $(function() {
 				h2.text('+');
 			}
 	});
-})
+	
+	toggle.each(function() {
+		var h1 = $(this).find('h1')
+			h1.text(number)
+		++number
+
+	});
+
+
+});
