@@ -116,3 +116,8 @@ hr {
 	margin-bottom:0;
 	border:none;
 }
+
+.toggle h1 {
+	float:left;
+	font-size:20px;
+}
