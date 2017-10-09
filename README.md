@@ -9,6 +9,7 @@ To access form, press the pen on the right to 'Edit'. This will display the form
 <!--- Copy everything bellow this line!
 
 <div class="class-no-caps-no-space toggle" id="NAME">
+		<h1></h1>
 		<h2>NAME [LVL] <a href="https://worldofwarcraft.com/en-gb/character/burning-legion/NAME" target="_blank">Armory</a> <span>+</span></h2>
 	</div>
 		<ul class="NAME class-no-caps-no-space">
